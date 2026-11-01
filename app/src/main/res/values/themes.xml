@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PKRKey" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/emerald</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/lime_container</item>
+        <item name="colorOnPrimaryContainer">@color/emerald_dark</item>
+        <item name="colorSecondary">@color/emerald_dark</item>
+        <item name="colorSecondaryContainer">@color/lime_container</item>
+        <item name="colorOnSecondaryContainer">@color/emerald_dark</item>
+        <item name="android:colorBackground">@color/surface_bg</item>
+        <item name="android:statusBarColor">@color/emerald_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

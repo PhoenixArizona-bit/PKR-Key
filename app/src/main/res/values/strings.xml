@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PKR Key</string>
+    <string name="ime_name">PKR Key</string>
+    <string name="subtype_english">English (PKR Key)</string>
+
+    <string name="header_subtitle">Keyboard with your own Pakistani Rupee symbol</string>
+
+    <string name="setup_title">Set up</string>
+    <string name="step_enable">1. Enable PKR Key</string>
+    <string name="step_select">2. Select PKR Key as default</string>
+    <string name="btn_enable">Enable PKR Key</string>
+    <string name="btn_select">Select PKR Key as default</string>
+    <string name="status_on">✓ Done</string>
+    <string name="status_off">Not done yet</string>
+    <string name="enable_first">Enable PKR Key first.</string>
+
+    <string name="appearance_title">Appearance</string>
+    <string name="label_theme">Keyboard theme</string>
+    <string name="theme_emerald">Emerald</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="label_key_height">Key height: %1$d dp</string>
+    <string name="label_show_symbol">Show PKR symbol key</string>
+
+    <string name="preview_title">Preview and test</string>
+    <string name="btn_preview_show">Preview keyboard</string>
+    <string name="btn_preview_hide">Hide preview</string>
+    <string name="preview_hint">Type here with the preview keyboard</string>
+    <string name="test_hint">Test the real keyboard here</string>
+    <string name="preview_settings_toast">You are already in settings.</string>
+
+    <string name="image_title">PKR symbol image</string>
+    <string name="image_body">The symbol is sent as an image, not as a text character. Apps that accept images from keyboards (many chat apps) receive it directly. In other apps the image is copied so you can paste it, or you can share it. Long-press the symbol key to share.</string>
+    <string name="btn_copy_image">Copy symbol image</string>
+    <string name="btn_share_image">Share symbol image</string>
+
+    <string name="privacy_title">Privacy</string>
+    <string name="privacy_body">PKR Key works fully offline. The app has no internet permission, no analytics and no ads. Typed text is never recorded, stored or sent anywhere. Only your three settings (theme, key height, symbol key) are saved on this phone.</string>
+
+    <string name="cd_symbol_key">Pakistani Rupee symbol image</string>
+    <string name="cd_shift">Shift</string>
+    <string name="cd_backspace">Backspace</string>
+    <string name="cd_enter">Enter</string>
+    <string name="cd_settings">PKR Key settings</string>
+    <string name="cd_space">Space. Drag to move the cursor.</string>
+
+    <string name="toast_copied">Symbol image copied. This app does not accept images from keyboards, so paste it. Long-press the key to share instead.</string>
+    <string name="toast_copy_failed">Could not prepare the symbol image.</string>
+    <string name="toast_copied_short">Symbol image copied.</string>
+    <string name="share_chooser_title">Share PKR symbol</string>
+    <string name="ime_picker_unavailable">Could not open the keyboard picker.</string>
+</resources>

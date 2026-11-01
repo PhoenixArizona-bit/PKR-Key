@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="emerald">#0B6B4F</color>
+    <color name="emerald_dark">#064E3B</color>
+    <color name="lime">#A3E635</color>
+    <color name="lime_container">#E6F7C4</color>
+    <color name="surface_bg">#F4F7F5</color>
+    <color name="ink">#14211B</color>
+    <color name="white">#FFFFFF</color>
+</resources>
