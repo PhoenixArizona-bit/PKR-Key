@@ -41,6 +41,7 @@ class MainActivity : AppCompatActivity() {
         previewGroup = findViewById(R.id.previewGroup)
         previewInput = findViewById(R.id.previewInput)
         previewHolder = findViewById(R.id.previewHolder)
+        previewInput.setShowSoftInputOnFocus(false)
 
         findViewById<MaterialButton>(R.id.btnEnable).setOnClickListener {
             startActivity(Intent(Settings.ACTION_INPUT_METHOD_SETTINGS))

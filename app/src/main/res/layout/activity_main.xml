@@ -260,8 +260,7 @@
                         android:hint="@string/preview_hint"
                         android:importantForAutofill="no"
                         android:inputType="textMultiLine"
-                        android:minLines="2"
-                        android:showSoftInputOnFocus="false" />
+                        android:minLines="2" />
 
                     <FrameLayout
                         android:id="@+id/previewHolder"
